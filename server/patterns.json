@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Digital arrest scam",
+    "keywords": ["arrest", "cbi", "police", "parcel", "customs", "video call", "warrant"],
+    "redFlags": "Caller claims to be police or CBI, says you are involved in a crime, demands money or stays on a video call. No agency does 'digital arrest'.",
+    "action": "Hang up. Do not pay. Report at 1930 or cybercrime.gov.in."
+  },
+  {
+    "name": "Fake KYC update",
+    "keywords": ["kyc", "update", "blocked", "suspended", "account", "link"],
+    "redFlags": "Message says your bank account will be blocked unless you update KYC through a link.",
+    "action": "Do not click. Contact your bank through its official app or branch."
+  },
+  {
+    "name": "Lottery or prize scam",
+    "keywords": ["won", "lottery", "prize", "lucky", "claim", "reward"],
+    "redFlags": "You are told you won something you never entered, and must pay a fee or share details to claim it.",
+    "action": "Ignore and delete. Never pay to receive a prize."
+  },
+  {
+    "name": "Malicious APK / fake app",
+    "keywords": ["apk", "install", "app", "download", "update", "anydesk"],
+    "redFlags": "A link asks you to install an app outside the Play Store, often disguised as a bank, utility or government app.",
+    "action": "Do not install. Only use official app stores."
+  },
+  {
+    "name": "Fake job offer",
+    "keywords": ["job", "work from home", "part time", "earn", "daily", "task", "telegram"],
+    "redFlags": "Easy high pay for simple tasks, asks you to join Telegram or pay a registration fee.",
+    "action": "Do not pay. Verify the company on its official website."
+  },
+  {
+    "name": "Fake loan app",
+    "keywords": ["loan", "instant", "approved", "no documents", "emi", "low interest"],
+    "redFlags": "Instant loan with no checks, asks for contact and photo access, later harasses you.",
+    "action": "Only borrow from RBI-registered lenders. Report harassment at 1930."
+  }
+]

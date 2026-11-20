@@ -1,0 +1,11 @@
+body { font-family: system-ui, sans-serif; background: #f5f7fb; margin: 0; }
+.wrap { max-width: 640px; margin: 0 auto; padding: 24px 16px; }
+.sub { color: #555; }
+textarea { width: 100%; padding: 12px; border-radius: 10px; border: 1px solid #ccd; box-sizing: border-box; font-size: 16px; }
+.row { display: flex; gap: 8px; margin: 12px 0; }
+select, button { padding: 10px 14px; border-radius: 8px; border: 1px solid #ccd; font-size: 16px; }
+button { background: #2563eb; color: #fff; border: 0; flex: 1; cursor: pointer; }
+button:disabled { opacity: .5; }
+.card { background: #fff; border: 2px solid; border-radius: 12px; padding: 16px; margin-top: 16px; }
+.badge { color: #fff; padding: 4px 12px; border-radius: 999px; font-weight: 600; }
+.err { color: #dc2626; }
